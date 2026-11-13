@@ -1,4 +1,4 @@
-# My local Vault-LD example
+# My work notes
 
 Set up python env and install libraries:
 
@@ -6,12 +6,6 @@ Set up python env and install libraries:
 $ python3 -m venv .venv
 $ source .venv/bin/activate
 (.venv) $ pip install rdflib pyyaml
-```
-
-Copy default example to test RDF export:
-
-```bash
-(.venv) $ cp -r ../Vault-LD\ Example/* .
 ```
 
 Export to RDF:

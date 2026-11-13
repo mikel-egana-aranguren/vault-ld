@@ -1,0 +1,13 @@
+{
+  "@context": {
+    "@base": "https://mikel-egana-aranguren.github.io/ehu-lsi-work-notes/Ontologies/Work/",
+    "work": "https://mikel-egana-aranguren.github.io/ehu-lsi-work-notes/Ontologies/Work/",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "priorNote":         { 
+      "@id": "work:priorNote",         
+      "@type": "@id" },
+    "todoDate":    { 
+      "@id": "work:todoDate",
+      "@type": "xsd:date" }
+  }
+}
