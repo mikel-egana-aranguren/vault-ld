@@ -10,3 +10,4 @@ node_modules
 docs/docs
 docs/static/images
 .docusaurus
+vault-ld.code-workspace
